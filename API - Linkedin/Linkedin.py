@@ -5,10 +5,7 @@ Created on Tue Oct 12 10:12:06 2021
 @author: jesus.tagua
 """
 """
-[01/10/2021 15:02] Mateusz Juszczuk
-linkedin
-juszczukmateusz@gmail.com
-batfor11
+
 
 [01/10/2021 15:02] Mateusz Juszczuk
 https://www.linkedin.com/developers/login
