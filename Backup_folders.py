@@ -20,9 +20,3 @@ for i in range(len(From)):
       print("Skipping " + From[i] + "destination path to be excluded")      
       continue
   copy_tree(From[i], To[i])
-
-
-
-
-
-
