@@ -1,11 +1,18 @@
 ## Repository content
 
 * API's related:
+ * GPT-3
+ * Google Analytics
+ * Linkedin
+ * Telegram Bots
+ * Twitter and NLP (detoxify)
+* Financial libraries
 * Machine learning / Deep learning related:
-  * <https://github.com/reisikei/Python_general/tree/main/ML%20-%20EDA>
-  * <https://github.com/reisikei/Python_general/tree/main/DL%20-%20TensorFlow>
-  * <https://github.com/reisikei/Python_general/tree/main/DL%20-%20FastAI> 
+  * EDA - <https://github.com/reisikei/Python_general/tree/main/ML%20-%20EDA>
+  * TF - <https://github.com/reisikei/Python_general/tree/main/DL%20-%20TensorFlow>
+  * FastAI - <https://github.com/reisikei/Python_general/tree/main/DL%20-%20FastAI> 
 * Docker
+* SQL
 * My user defined functions - UDF: 
   * <https://github.com/reisikei/Python_general/tree/main/UDF>  
 
