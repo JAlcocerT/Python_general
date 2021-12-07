@@ -1,11 +1,11 @@
 ## Repository content
 
 * API's related:
- * GPT-3
- * Google Analytics
- * Linkedin
- * Telegram Bots
- * Twitter and NLP (detoxify)
+  * GPT-3
+  * Google Analytics
+  * Linkedin
+  * Telegram Bots
+  * Twitter and NLP (detoxify)
 * Financial libraries
 * Machine learning / Deep learning related:
   * EDA - <https://github.com/reisikei/Python_general/tree/main/ML%20-%20EDA>
